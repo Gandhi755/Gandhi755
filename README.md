@@ -15,8 +15,6 @@ Languages and Tools:
 - 😄 Pronouns: Gandhi 
 - ⚡ Fun fact: I am 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Gandhi755)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Gandhi755&show_icons=true)  
+![](https://activity-graph.herokuapp.com/graph?username=Gandhi755&theme=react-dark&area=true)
 
 
