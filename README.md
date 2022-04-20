@@ -15,6 +15,15 @@ Languages and Tools:
 - 😄 Pronouns: Gandhi 
 - ⚡ Fun fact: I am 
 
+![Visitor Count](https://profile-counter.glitch.me/Gandhi755/count.svg)
+
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gandhi755&column=7"/>
+  </a>
+</div>
+
 ![](https://activity-graph.herokuapp.com/graph?username=Gandhi755&theme=react-dark&area=true)
 
 
