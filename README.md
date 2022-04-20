@@ -20,7 +20,7 @@ Languages and Tools:
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gandhi755&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Gandhi755&theme=buddhism"/>
   </a>
 </div>
 
